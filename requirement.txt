@@ -1,0 +1,4 @@
+gym_super_mario_bros==6.0.1
+torch==0.3.1
+nes-py==2.0.0
+gym==0.10.9
